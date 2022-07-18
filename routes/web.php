@@ -28,3 +28,7 @@ Route::get('/contact', function () {
 Route::get('/catagory', function () {
     return view('cetagory');
 });
+
+// Route::get('/mosharof', function () {
+//     return view('mosharof');
+// });
